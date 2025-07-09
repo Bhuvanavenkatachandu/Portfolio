@@ -27,7 +27,7 @@ const Contact = () => {
       </p>
 
       <a
-        href="mailto:eluribhuvanavenkatachandu@gmail.com?subject=Let's%20Connect&body=Hi%20Bhuvana%2C%0A%0AI'd%20like%20to%20reach%20out%20regarding..."
+        href="mailto:eluribhuvanavenkatachandu@gmail.com?subject=Let's%20Connect&body=Hi%20Bhuvanavenkatachandu%2C%0A%0AI'd%20like%20to%20reach%20out%20regarding..."
         className="message-button"
       >
         Send Message
